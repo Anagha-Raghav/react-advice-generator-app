@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-advice-generator-app/static/css/main.54d26d61.css",
+    "main.js": "/react-advice-generator-app/static/js/main.7b2ee349.js",
+    "static/js/453.bd216e3e.chunk.js": "/react-advice-generator-app/static/js/453.bd216e3e.chunk.js",
+    "static/media/backgroundImg.jpg": "/react-advice-generator-app/static/media/backgroundImg.931adee6dd02c4f4e293.jpg",
+    "index.html": "/react-advice-generator-app/index.html",
+    "main.54d26d61.css.map": "/react-advice-generator-app/static/css/main.54d26d61.css.map",
+    "main.7b2ee349.js.map": "/react-advice-generator-app/static/js/main.7b2ee349.js.map",
+    "453.bd216e3e.chunk.js.map": "/react-advice-generator-app/static/js/453.bd216e3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d26d61.css",
+    "static/js/main.7b2ee349.js"
+  ]
+}
